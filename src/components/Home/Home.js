@@ -32,15 +32,14 @@ const Home = () => {
         <Col className="col-12 w-100 col-lg-8 pb-sm-5">
           <animated.div style={slideDown}>
             <p style={slideDown} className="hi text-bold">
-              Hi, i am
+              Hi, my name is Ahmed Refai
             </p>
             <h1 style={slideDown} delay="500" className="name">
-              Front-end Developer.
+              Full-stack Developer.
             </h1>
-            <p className="subtitle">Passionate about Javascript.</p>
+            <p className="subtitle">Passionate about Code.</p>
             <p className=" pl-0 title-description col-lg-8 mt-md-4">
-              I build desktop and mobile web apps that provide intuitive and
-              pixel-perfect user interfaces.
+              I build mobile and web apps to turn dreams into incredible user experiences
             </p>
             <p>
               <q>

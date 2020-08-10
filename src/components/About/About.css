@@ -15,7 +15,7 @@
 
 .profil {
   border-radius: 10px;
-  height: 250px;
+  height: 230px;
   width: 250px;
   position: relative;
 }
@@ -24,7 +24,7 @@
   content: "";
 
   border-radius: 10px;
-  height: 250px;
+  height: 240px;
   width: 250px;
   top: -25px;
   left: 25px;

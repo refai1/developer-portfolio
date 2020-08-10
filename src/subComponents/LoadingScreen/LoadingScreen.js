@@ -12,8 +12,8 @@ const LoadingScreen = () => {
   return (
     <div className="loading-container d-flex align-items-center justify-content-center">
       <animated.div style={fadeIn} className="theName">
-        <div className="logo">P</div>
-        <div className="logo-next">hilippe tedajo</div>
+        <div className="logo">AR</div>
+        <div className="logo-next">Ahmed Refai</div>
       </animated.div>
     </div>
   );

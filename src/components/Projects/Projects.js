@@ -13,8 +13,8 @@ const Projects = () => {
       <Hero title="Projects" />
       <Row className="d-flex justify-content-center">
         <Col className="col-md-6 f18 text-center text-bold">
-          From pure Javascript to React, Redux, NodeJS and more... Check out my
-          latest web applications projects.
+          From pure Javascript to React, Redux, NodeJS and more... Check out some of my projects.
+          More on my github!
         </Col>
       </Row>
       <Row>

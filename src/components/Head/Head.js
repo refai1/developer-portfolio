@@ -7,7 +7,7 @@ const Head = props => {
   return (
     <Row className="head-container">
       <Col className="head d-flex justify-content-between align-items-center">
-        <p className="profil-link col-sm-6 col-8  text-bold">Philippe Tedajo</p>
+        <p className="profil-link col-sm-6 col-8  text-bold">Ahmed Refai</p>
         <div className="nav-link d-flex col-sm-6 col-4">
           <Link to="projects" className="head-link">
             Projects
@@ -15,9 +15,9 @@ const Head = props => {
           <Link to="about" className="head-link">
             About me
           </Link>
-          <Link to="contact" className="head-link">
+          {/* <Link to="contact" className="head-link">
             Contact
-          </Link>
+          </Link> */}
           <span className="dark-light" onClick={props.toggleTheme}>
             {props.icon}
           </span>

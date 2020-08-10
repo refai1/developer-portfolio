@@ -10,7 +10,7 @@ const Slides = () => {
 
   useEffect(() => {
     setIsloading(true);
-    const url = "https://api.github.com/users/philippetedajo/repos";
+    const url = "https://api.github.com/users/refai1/repos";
     fetch(url)
       .then(res => res.json())
       .then(data => {

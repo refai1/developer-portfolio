@@ -50,9 +50,9 @@ const App = () => {
             <Home />
           </Row>
           <Projects />
-          <About />
+          {/* <About /> */}
           <Row className="wrapper_contact d-flex flex-column ">
-            <Contact />
+            {/* <Contact /> */}<About />
             <Footer />
           </Row>
         </Container>
