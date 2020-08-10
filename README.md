@@ -17,7 +17,7 @@ If you would like to download the code and try it for yourself:
 5. Open your browser at: `http://localhost:3000`
 
 ## 🐾 Authors
-[Ahmed Refai](https://github.com/refai1)
+[Ahmed Refai](https://github.com/refai1)\\
 [Tedajo Philippe](https://github.com/philippetedajo)
 
 ## 🌴 License
